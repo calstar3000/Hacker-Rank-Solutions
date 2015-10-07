@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AcmIcpcTeam\Solution.cs" />
     <Compile Include="AngryProfessor\Solution.cs" />
     <Compile Include="CaesarCipher\Solution.cs" />
     <Compile Include="CavityMap\Solution.cs" />

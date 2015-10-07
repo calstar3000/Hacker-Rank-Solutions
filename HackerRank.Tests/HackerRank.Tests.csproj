@@ -70,6 +70,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AcmIcpcTeam\Tests.cs" />
     <Compile Include="ChocolateFeast\Tests.cs" />
     <Compile Include="ExtraLongFactorials\Tests.cs" />
     <Compile Include="FindDigits\Tests.cs" />

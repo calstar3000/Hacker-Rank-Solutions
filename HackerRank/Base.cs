@@ -24,8 +24,9 @@ namespace HackerRank
             //new ChocolateFeast.Solution().Solve();
             //new CavityMap.Solution().Solve();
             //new GridSearch.Solution().Solve();
-            //Console.WriteLine(new SimpleArrraySum.Solution(new ConsoleReader()).Solve());
-            new ManasaAndStones.Solution().Solve();
+            //new SimpleArrraySum.Solution(new ConsoleReader()).Solve();
+            //new ManasaAndStones.Solution().Solve();
+            new AcmIcpcTeam.Solution().Solve();
             Console.ReadKey();
         }
     }
