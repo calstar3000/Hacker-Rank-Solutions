@@ -26,7 +26,9 @@ namespace HackerRank
             //new GridSearch.Solution().Solve();
             //new SimpleArrraySum.Solution(new ConsoleReader()).Solve();
             //new ManasaAndStones.Solution().Solve();
-            new AcmIcpcTeam.Solution().Solve();
+            //new AcmIcpcTeam.Solution().Solve();
+            //new TaumAndBday.Solution().Solve();
+            new TimeInWords.Solution().Solve();
             Console.ReadKey();
         }
     }

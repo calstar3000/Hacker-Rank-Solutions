@@ -78,6 +78,8 @@
     <Compile Include="SherlockAndSquares\Tests.cs" />
     <Compile Include="SimpleArraySum\Tests.cs" />
     <Compile Include="SongOfPi\Tests.cs" />
+    <Compile Include="TaumAndBday\Tests.cs" />
+    <Compile Include="TimeInWords\Tests.cs" />
     <Compile Include="UtopianTree\Tests.cs" />
   </ItemGroup>
   <ItemGroup>

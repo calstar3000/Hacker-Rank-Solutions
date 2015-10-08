@@ -68,7 +68,9 @@
     <Compile Include="SimpleArrraySum\Solution.cs" />
     <Compile Include="SongOfPi\Solution.cs" />
     <Compile Include="Staircase\Solution.cs" />
+    <Compile Include="TaumAndBday\Solution.cs" />
     <Compile Include="TimeConversion\Solution.cs" />
+    <Compile Include="TimeInWords\Solution.cs" />
     <Compile Include="UtopianTree\Solution.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
