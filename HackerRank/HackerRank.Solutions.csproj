@@ -50,9 +50,11 @@
     <Compile Include="ChocolateFeast\Solution.cs" />
     <Compile Include="CutTheSticks\Solution.cs" />
     <Compile Include="DiagonalDifference\Solution.cs" />
+    <Compile Include="Encryption\Solution.cs" />
     <Compile Include="ExtraLongFactorials\Solution.cs" />
     <Compile Include="FindDigits\Solution.cs" />
     <Compile Include="GridSearch\Solution.cs" />
+    <Compile Include="KaprekarNumbers\Solution.cs" />
     <Compile Include="LibraryFine\Solution.cs" />
     <Compile Include="LonelyInteger\Solution.cs" />
     <Compile Include="Base.cs" />

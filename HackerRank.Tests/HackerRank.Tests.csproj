@@ -72,8 +72,10 @@
   <ItemGroup>
     <Compile Include="AcmIcpcTeam\Tests.cs" />
     <Compile Include="ChocolateFeast\Tests.cs" />
+    <Compile Include="Encryption\Tests.cs" />
     <Compile Include="ExtraLongFactorials\Tests.cs" />
     <Compile Include="FindDigits\Tests.cs" />
+    <Compile Include="KaprekarNumbers\Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SherlockAndSquares\Tests.cs" />
     <Compile Include="SimpleArraySum\Tests.cs" />

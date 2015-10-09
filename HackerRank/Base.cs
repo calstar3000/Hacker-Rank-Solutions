@@ -28,7 +28,9 @@ namespace HackerRank
             //new ManasaAndStones.Solution().Solve();
             //new AcmIcpcTeam.Solution().Solve();
             //new TaumAndBday.Solution().Solve();
-            new TimeInWords.Solution().Solve();
+            //new TimeInWords.Solution().Solve();
+            //new KaprekarNumbers.Solution().Solve();
+            new Encryption.Solution().Solve();
             Console.ReadKey();
         }
     }
