@@ -1,0 +1,11 @@
+E:\Calum\Development\HackerRank\HackerRank.Tests\obj\Debug\HackerRank.Tests.Implementation.csprojResolveAssemblyReference.cache
+E:\Calum\Development\HackerRank\HackerRank.Tests\obj\Debug\HackerRank.Tests.dll
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\HackerRank.Tests.dll
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\HackerRank.Tests.pdb
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\HackerRank.exe
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\nunit.framework.dll
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\HackerRank.pdb
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\bin\Debug\nunit.framework.xml
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\obj\Debug\HackerRank.Tests.Implementation.csprojResolveAssemblyReference.cache
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\obj\Debug\HackerRank.Tests.dll
+E:\Calum\Development\HackerRank\HackerRank.Tests.Implementation\obj\Debug\HackerRank.Tests.pdb
