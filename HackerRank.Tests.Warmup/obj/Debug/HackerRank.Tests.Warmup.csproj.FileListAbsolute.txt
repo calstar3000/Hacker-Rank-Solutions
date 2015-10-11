@@ -1,10 +1,10 @@
 E:\Calum\Development\HackerRank\HackerRank.Warmup.Tests\obj\Debug\HackerRank.Tests.Warmup.csprojResolveAssemblyReference.cache
-E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\obj\Debug\HackerRank.Tests.Warmup.csprojResolveAssemblyReference.cache
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\HackerRank.Warmup.Tests.dll
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\HackerRank.Warmup.Tests.pdb
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\HackerRank.Solutions.Warmup.exe
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\nunit.framework.dll
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\HackerRank.Solutions.Warmup.pdb
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\bin\Debug\nunit.framework.xml
+E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\obj\Debug\HackerRank.Tests.Warmup.csprojResolveAssemblyReference.cache
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\obj\Debug\HackerRank.Warmup.Tests.dll
 E:\Calum\Development\HackerRank\HackerRank.Tests.Warmup\obj\Debug\HackerRank.Warmup.Tests.pdb

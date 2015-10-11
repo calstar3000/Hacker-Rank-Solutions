@@ -1,7 +1,7 @@
 E:\Calum\Development\HackerRank\ConsoleApplication1\obj\Debug\HackerRank.Solutions.Warmup.csprojResolveAssemblyReference.cache
-E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\obj\Debug\HackerRank.Solutions.Warmup.csprojResolveAssemblyReference.cache
 E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\bin\Debug\HackerRank.Solutions.Warmup.exe.config
 E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\bin\Debug\HackerRank.Solutions.Warmup.exe
 E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\bin\Debug\HackerRank.Solutions.Warmup.pdb
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\obj\Debug\HackerRank.Solutions.Warmup.csprojResolveAssemblyReference.cache
 E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\obj\Debug\HackerRank.Solutions.Warmup.exe
 E:\Calum\Development\HackerRank\HackerRank.Solutions.Warmup\obj\Debug\HackerRank.Solutions.Warmup.pdb
