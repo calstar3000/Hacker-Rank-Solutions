@@ -76,6 +76,7 @@
     <Compile Include="ExtraLongFactorials\Tests.cs" />
     <Compile Include="FindDigits\Tests.cs" />
     <Compile Include="KaprekarNumbers\Tests.cs" />
+    <Compile Include="MatrixRotation\Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SherlockAndSquares\Tests.cs" />
     <Compile Include="SimpleArraySum\Tests.cs" />

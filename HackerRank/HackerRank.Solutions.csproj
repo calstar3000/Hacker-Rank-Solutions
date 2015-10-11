@@ -59,6 +59,7 @@
     <Compile Include="LonelyInteger\Solution.cs" />
     <Compile Include="Base.cs" />
     <Compile Include="ManasaAndStones\Solution.cs" />
+    <Compile Include="MatrixRotation\Solution.cs" />
     <Compile Include="PlusMinus\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReallyBigSum\Solution.cs" />

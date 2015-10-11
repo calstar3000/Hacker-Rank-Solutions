@@ -30,7 +30,8 @@ namespace HackerRank
             //new TaumAndBday.Solution().Solve();
             //new TimeInWords.Solution().Solve();
             //new KaprekarNumbers.Solution().Solve();
-            new Encryption.Solution().Solve();
+            //new Encryption.Solution().Solve();
+            new MatrixRotation.Solution().Solve();
             Console.ReadKey();
         }
     }
