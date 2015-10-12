@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HackerRank.Solutions.Warmup
 {
@@ -17,6 +13,7 @@ namespace HackerRank.Solutions.Warmup
             //new TimeConversion.Solution();
             //new LibraryFine.Solution();
             new ExtraLongFactorials.Solution();
+            Console.ReadKey();
         }
     }
 }

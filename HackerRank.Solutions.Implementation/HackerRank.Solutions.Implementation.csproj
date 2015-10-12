@@ -58,6 +58,7 @@
     <Compile Include="ManasaAndStones\Solution.cs" />
     <Compile Include="MatrixRotation\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceLane\Solution.cs" />
     <Compile Include="Sherlock\Solution.cs" />
     <Compile Include="SherlockAndSquares\Solution.cs" />
     <Compile Include="SongOfPi\Solution.cs" />

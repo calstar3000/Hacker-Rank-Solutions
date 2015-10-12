@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Solutions.Warmup
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tests.Warmup", "HackerRank.Tests.Warmup\HackerRank.Tests.Warmup.csproj", "{8A131EE8-EEB2-43D2-9E7F-C64F1044BB69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Solutions.Strings", "HackerRank.Solutions.Strings\HackerRank.Solutions.Strings.csproj", "{252A3165-DE18-4769-8FDD-5742583C2332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank.Tests.Strings", "HackerRank.Tests.Strings\HackerRank.Tests.Strings.csproj", "{BB441AE3-565B-4D07-A78F-DF595B8EF890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8A131EE8-EEB2-43D2-9E7F-C64F1044BB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A131EE8-EEB2-43D2-9E7F-C64F1044BB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A131EE8-EEB2-43D2-9E7F-C64F1044BB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252A3165-DE18-4769-8FDD-5742583C2332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252A3165-DE18-4769-8FDD-5742583C2332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252A3165-DE18-4769-8FDD-5742583C2332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252A3165-DE18-4769-8FDD-5742583C2332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB441AE3-565B-4D07-A78F-DF595B8EF890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB441AE3-565B-4D07-A78F-DF595B8EF890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB441AE3-565B-4D07-A78F-DF595B8EF890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB441AE3-565B-4D07-A78F-DF595B8EF890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

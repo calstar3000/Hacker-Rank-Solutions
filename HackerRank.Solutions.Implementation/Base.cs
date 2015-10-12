@@ -12,6 +12,7 @@ namespace HackerRank.Solutions.Implementation
             //new UtopianTree.Solution().Solve();
             //new FindDigits.Solution().Solve();
             //new SongOfPi.Solution().Solve();
+            //new ServiceLane.Solution().Solve();
             //new SherlockAndSquares.Solution().Solve();
             //new CutTheSticks.Solution().Solve();
             //new ChocolateFeast.Solution().Solve();

@@ -1,0 +1,6 @@
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\bin\Debug\HackerRank.Solutions.Strings.exe.config
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\bin\Debug\HackerRank.Solutions.Strings.exe
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\bin\Debug\HackerRank.Solutions.Strings.pdb
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\obj\Debug\HackerRank.Solutions.Strings.csprojResolveAssemblyReference.cache
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\obj\Debug\HackerRank.Solutions.Strings.exe
+E:\Calum\Development\HackerRank\HackerRank.Solutions.Strings\obj\Debug\HackerRank.Solutions.Strings.pdb
